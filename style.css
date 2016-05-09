@@ -42,3 +42,9 @@ img
 {
 	height:300px;
 }
+div.article 
+{
+    width:800px;
+    margin:auto;
+    text-align:left;
+}
