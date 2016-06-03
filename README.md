@@ -1,3 +1,4 @@
 # Demo
 Demo practise for CSS/JS <br>
-This is a demo proctise for CSS/JS by Monffy :)
+This is a demo proctise for CSS/JS by Monffy 
+Available @ http://monfffy.github.io/Demo/ :)
