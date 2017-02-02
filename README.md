@@ -1,5 +1,5 @@
 # Demo
-This is a demo proctise for HTML/CSS/JS by Monffy 
+This is a demo practise for HTML/CSS/JS by Monffy 
 <br>
 <strong>Beautiful Mess</strong>
 <br>
