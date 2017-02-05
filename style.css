@@ -1,0 +1,50 @@
+h1{
+	color:#990099;
+	line-height:130%;
+   }
+ul
+     {
+    font-weight:bold;
+	list-style-type:none;
+	padding:0;
+   }
+body 
+     {
+    background-color:#C0C0C0;
+	text-align:center;
+	font-family:Palatino Linotype;
+	color:white;
+	}
+h2 {
+	background-color:pink;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-left:300px;
+	margin-right:300px;}
+a:link
+       {
+	color:white;
+	text-decoration:none;
+	}
+a:visited
+       {
+	color:white;
+	}
+a:hover
+       {
+	color:#3399FF;
+	}
+table{
+	background-color:#990099;
+	font-weight:bold;
+	}
+img
+{
+	height:300px;
+}
+
+div.article {
+    width:800px;
+    margin:auto;
+	text-align:left;
+}
